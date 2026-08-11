@@ -1,0 +1,29 @@
+.a{
+    height:200px;
+    width:400px;
+    background-color:gray;
+    border:2px solid black;
+}
+.a h2{
+    text-align:center;
+}
+.aa{
+    border:2px solid black;
+    background-color:green;
+}
+.bb{
+    border:2px solid black;
+    background-color:brown;
+   height: 20px;
+   width: 70p;
+}
+.c{
+    border:2px solid black;
+}
+.dd{
+    border:2px solid black;
+    background-color:brown;
+   height: 20px;
+   width: 70p;
+
+}
